@@ -1,0 +1,11 @@
+D:\Marcel Zarębski\TextBox\bin\Debug\TextBox.exe.config
+D:\Marcel Zarębski\TextBox\bin\Debug\TextBox.exe
+D:\Marcel Zarębski\TextBox\bin\Debug\TextBox.pdb
+D:\Marcel Zarębski\TextBox\obj\Debug\TextBox.csproj.AssemblyReference.cache
+D:\Marcel Zarębski\TextBox\obj\Debug\TextBox.csproj.SuggestedBindingRedirects.cache
+D:\Marcel Zarębski\TextBox\obj\Debug\TextBox.Form1.resources
+D:\Marcel Zarębski\TextBox\obj\Debug\TextBox.Properties.Resources.resources
+D:\Marcel Zarębski\TextBox\obj\Debug\TextBox.csproj.GenerateResource.cache
+D:\Marcel Zarębski\TextBox\obj\Debug\TextBox.csproj.CoreCompileInputs.cache
+D:\Marcel Zarębski\TextBox\obj\Debug\TextBox.exe
+D:\Marcel Zarębski\TextBox\obj\Debug\TextBox.pdb
